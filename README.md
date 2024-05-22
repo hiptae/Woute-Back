@@ -24,7 +24,7 @@
 ## 링크
 [발표 PPT](https://github.com/121Mbp/woute-spring-backend/files/14001736/bts2woute_final.pdf)
 
-http://3.36.219.193
+http://heetaeb.xyz
 
 
 ## 일정 (2023. 12. 08 ~ 2014. 01. 12)
